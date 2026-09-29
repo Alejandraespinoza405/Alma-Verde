@@ -4,7 +4,7 @@ export function Hero() {
       <div className="relative h-[70vh] w-full">
   <img
     src="/images/plantas-hero.jpg"
-    alt="Paisaje de Bariloche"
+    alt="Plantas de interior"
     className="h-full w-full object-cover object-[center_25%]"
   />
 
